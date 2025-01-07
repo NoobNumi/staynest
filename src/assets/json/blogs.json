@@ -1,0 +1,79 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "read_duration": "3 minute read",
+      "title": "Seaside love: Prenup at StayNest",
+      "description": "A lovely couple shared their unforgettable journey with a dreamy prenup pictorial at StayNest, capturing moments filled with love and breathtaking scenery.",
+      "content": "This is the content of blog 1",
+      "image": "./images/blogs/blog-1.jpg",
+      "alt": "Seaside love: Prenup at StayNest",
+      "author": {
+        "name": "Joshua Derek",
+        "image": "./images/avatars/4.png",
+        "alt": "Joshua Derek"
+      },
+      "date": "November 4, 2024"
+    },
+    {
+      "id": 2,
+      "read_duration": "5 minute read",
+      "title": "Turned 25 in Paradise: A Birthday to Remember at StayNest",
+      "description": "A joyful guest marked her 25th birthday at StayNest, surrounded by stunning ocean views, heartfelt surprises, and the warmth of family and friends. A celebration to remember in paradise!",
+      "content": "This is the content of blog 2",
+      "image": "./images/blogs/blog-2.jpg",
+      "alt": "Turned 25 in Paradise: A Birthday to Remember at StayNest",
+      "author": {
+        "name": "Martin Barnes",
+        "image": "./images/avatars/2.jpg",
+        "alt": "Martin Barnes"
+      },
+      "date": "November 7, 2024"
+    },
+    {
+      "id": 3,
+      "read_duration": "10 minute read",
+      "title": "Nature’s Wonders: Live Sea Turtles at Isla Solara’s Shores",
+      "description": "Guests at StayNest were delighted to spot live sea turtles gracefully swimming in the crystal-clear waters of Isla Solara—a rare and magical experience that showcases the island’s vibrant marine life.",
+      "content": "This is the content of blog 3",
+      "image": "./images/blogs/blog-3.jpg",
+      "alt": "Nature’s Wonders: Live Sea Turtles at Isla Solara’s Shores",
+      "author": {
+        "name": "Trevor Nielsen",
+        "image": "./images/avatars/avatar-3.jpg",
+        "alt": "Trevor Nielsen"
+      },
+      "date": "November 14, 2024"
+    },
+    {
+      "id": 4,
+      "read_duration": "1 minute read",
+      "title": "Unwind Together: A Day by the Shores of StayNest",
+      "description": "A group of friends shared their laughter-filled day at StayNest. From beach games to breathtaking sunsets, their getaway was all about fun, relaxation, and making memories that last a lifetime.",
+      "content": "This is the content of blog 4",
+      "image": "./images/blogs/blog-4.jpg",
+      "alt": "Unwind Together: A Day by the Shores of StayNest",
+      "author": {
+        "name": "Gene Hutchinson",
+        "image": "./images/avatars/avatar-4.jpg",
+        "alt": "Gene Hutchinson"
+      },
+      "date": "November 21, 2024"
+    },
+    {
+      "id": 5,
+      "read_duration": "7 minute read",
+      "title": "A Magical Night: A Wedding to Remember at StayNest",
+      "description": "A couple’s dream wedding came to life at StayNest, where the enchanting setting of the island, the warmth of loved ones, and the promise of forever made their special day truly unforgettable.",
+      "content": "This is the content of blog 5",
+      "image": "./images/blogs/blog-5.jpg",
+      "alt": "A Magical Night: A Wedding to Remember at StayNest",
+      "author": {
+        "name": "Ella Harper",
+        "image": "https://i.pravatar.cc/80?img=9",
+        "alt": "Ella Harper"
+      },
+      "date": "November 28, 2024"
+    }
+  ]
+}

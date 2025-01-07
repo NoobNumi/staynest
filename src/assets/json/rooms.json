@@ -1,0 +1,32 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Duo Haven",
+      "price": 36,
+      "image": "./images/rooms/room1.jpg",
+      "alt": "Duo Haven room"
+    },
+    {
+      "id": 2,
+      "name": "Family Pack",
+      "price": 40,
+      "image": "./images/rooms/room2.jpg",
+      "alt": "Family Pack room"
+    },
+    {
+      "id": 3,
+      "name": "Friends takeout",
+      "price": 52,
+      "image": "./images/rooms/room3.jpg",
+      "alt": "Friends takeout room"
+    },
+    {
+      "id": 4,
+      "name": "Reunion Dine",
+      "price": 60,
+      "image": "./images/rooms/room4.jpg",
+      "alt": "Reunion Dine room"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How do I book a room at StayNest?",
+      "answer": "To book a room at StayNest, simply click <a href='' class='underline text-primary font-semibold'>sign up</a> to create an account and make a reservation. If you're a returning guest, <a href='' class='underline text-primary font-semibold'>log in</a> to your account to book directly.",
+      "icon": {
+        "image": "./images/icons/calendar-3.svg"
+      }
+    },
+    {
+      "id": 2,
+      "question": "What types of rooms are available at StayNest?",
+      "answer": "<p>At StayNest, we offer a variety of room options to suit your needs:</p><ul><li><span class='text-primary font-medium'>Duo Haven:</span> Perfect for couples or solo travelers.</li><li><span class='text-primary font-medium'>Family Pack:</span> Ideal for families.</li><li><span class='text-primary font-medium'>Friends Takeout:</span> Great for small groups of friends.</li><li><span class='text-primary font-medium'>Reunion Dine:</span> Spacious accommodations for reunions.</li></ul><p>For more information, check out the <a href='#rooms' class='underline font-semibold text-primary'>Rooms</a> section to learn more.</p>",
+      "icon": {
+        "image": "./images/icons/bed-1.svg"
+      }
+    },
+    {
+      "id": 3,
+      "question": "What amenities are included in each room?",
+      "answer": "<p>Each room at StayNest comes with the following amenities:</p><ul><li><span class='text-primary font-medium'>Free Wi-Fi:</span> Stay connected with high-speed internet access.</li><li><span class='text-primary font-medium'>Complimentary Breakfast:</span> Start your day with a delicious meal.</li><li><span class='text-primary font-medium'>Room Service:</span> Enjoy meals and snacks in the comfort of your room.</li><li><span class='text-primary font-medium'>Housekeeping:</span> Keep your room clean and tidy with daily housekeeping services.</li></ul><p>For more information, visit the <a href='#amenities' class='underline font-semibold text-primary'>Amenities</a> section.</p>",
+      "icon": {
+        "image": "./images/icons/wifi-4.svg"
+      }
+    },
+    {
+      "id": 4,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept a variety of payment methods, including credit cards, debit cards, and digital wallets. For more information, please refer to the <a href='#payment' class='underline font-semibold text-primary'>Payment Options</a> section.",
+      "icon": {
+        "image": "./images/icons/wallet-5.svg"
+      }
+    },
+    {
+      "id": 5,
+      "question": "Is there a cancellation policy?",
+      "answer": "Yes, StayNest has a flexible cancellation policy. Cancellations made at least 48 hours before check-in are fully refundable. For details, see our <a href='#cancellation' class='underline text-primary font-semibold'>Cancellation Policy</a> page.",
+      "icon": {
+        "image": "./images/icons/cancel-2.svg"
+      }
+    },
+    {
+      "id": 6,
+      "question": "Are pets allowed in StayNest rooms?",
+      "answer": "We are a pet-friendly accommodation. Certain room types allow pets. Please check the <a href='#pet-policy' class='underline text-primary font-semibold'>Pet Policy</a> for details before booking.",
+      "icon": {
+        "image": "./images/icons/pet.svg"
+      }
+    },
+    {
+      "id": 7,
+      "question": "Is parking available?",
+      "answer": "Yes, StayNest provides free parking for all guests. Premium parking options are also available. For details, see the <a href='#parking' class='underline text-primary font-semibold'>Parking Information</a> section.",
+      "icon": {
+        "image": "./images/icons/car.svg"
+      }
+    },
+    {
+      "id": 8,
+      "question": "Do you provide airport transfers?",
+      "answer": "Yes, we offer airport transfers upon request. Visit the <a href='#airport-transfers' class='underline text-primary font-semibold'>Airport Transfers</a> page to learn more and book your ride.",
+      "icon": {
+        "image": "./images/icons/plane.svg"
+      }
+    },
+    {
+      "id": 9,
+      "question": "Can I modify my reservation after booking?",
+      "answer": "Yes, reservations can be modified up to 24 hours before check-in. Please log in to your account or contact our <a href='#support' class='underline text-primary font-semibold'>Support Team</a> for assistance.",
+      "icon": {
+        "image": "./images/icons/edit.svg"
+      }
+    },
+    {
+      "id": 10,
+      "question": "Do you offer group discounts?",
+      "answer": "Yes, StayNest offers discounts for group bookings. For inquiries, visit our <a href='#group-discounts' class='underline text-primary font-semibold'>Group Discounts</a> page or contact us directly.",
+      "icon": {
+        "image": "./images/icons/group.svg"
+      }
+    }
+  ]
+}

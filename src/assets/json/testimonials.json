@@ -1,0 +1,53 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Vanessa Marshall",
+      "room_availed": "Family Pack",
+      "image": "./images/avatars/1.png",
+      "review": "StayNest was a perfect choice for our family getaway! As a mother of three, I truly appreciated how the Family Pack room was designed to keep everyone entertained and comfortable. The kids loved the fun activities available in the room and the adults enjoyed the cozy ambiance. We will definitely be back!"
+    },
+    {
+      "id": 2,
+      "name": "Nicholas Compton",
+      "room_availed": "Friends Takeout",
+      "image": "./images/avatars/2.jpg",
+      "review": "StayNest made our group getaway amazing! The Friends Takeout room was spacious, cozy, and had games that kept us entertained for hours. It was the perfect place to relax and reconnect with friends!"
+    },
+    {
+      "id": 3,
+      "name": "Leila Burns",
+      "room_availed": "Duo Haven",
+      "image": "./images/avatars/3.jpg",
+      "review": "Our honeymoon at StayNest was absolutely magical! The Duo Haven room was perfect for couples, with stunning ocean views and cozy, romantic touches. The staff made us feel so special, and every moment felt like paradise. We can’t wait to return for our anniversary!"
+    },
+    {
+      "id": 4,
+      "name": "Evan Nicholsen",
+      "room_availed": "Friends Takeout",
+      "image": "./images/avatars/4.png",
+      "review": "StayNest exceeded all my expectations! My friends and I stayed in the Friends Takeout room, and it was perfect for our group getaway. The space was stylish, comfortable, and even came with games to keep us entertained all night long. We had a blast and can’t wait to come back!"
+    },
+    {
+      "id": 5,
+      "name": "Michael Sherman",
+      "room_availed": "Reunion Dine",
+      "image": "./images/avatars/5.png",
+      "review": "StayNest brought my reunion to life! Renting the Reunion Dine room was the best decision for meeting my old friends and classmates. The space was perfect—spacious, beautifully set up, and ideal for sharing laughs and memories over a great meal and drinks. It was a night to remember!"
+    },
+    {
+      "id": 6,
+      "name": "Marc Henry",
+      "room_availed": "Duo Haven",
+      "image": "./images/avatars/6.jpg",
+      "review": "Our stay at StayNest was unforgettable! The Duo Haven room was perfect for a romantic getaway—cozy, intimate, and with stunning views. It gave my girlfriend and me the perfect space to relax and enjoy quality time together. We’ll definitely be back!"
+    },
+    {
+      "id": 7,
+      "name": "Jim Lambert",
+      "room_availed": "Reunion Dine",
+      "image": "./images/avatars/7.png",
+      "review": "StayNest was the perfect choice for our family reunion! The Reunion Dine room was spacious, beautifully arranged, and ideal for bringing everyone together. It made catching up with family so special, and the warm atmosphere set the perfect tone for our gathering. We can’t wait to come back!"
+    }
+  ]
+}
